@@ -1,4 +1,4 @@
-Moja najoblúbenejšia zaverečná práca
-Aplikacia v Androide pre vzdelávanie informatiky
+##Moja najobľúbenejšia zaverečná práca
+#Aplikacia v Androide pre vzdelávanie informatiky
 VS
-20.04.2016
+Alt-H2 20.04.2016
